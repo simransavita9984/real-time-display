@@ -14,11 +14,9 @@ This project is a beautifully designed **digital clock** that displays the curre
 
 ---
 
-## 📸 Preview
+## 📺 You Can View It Here
 
-![Clock Screenshot](Digital Clock.png)
-
----
+👉 [**Live Demo**](http://127.0.0.1:3000/Javascript%20Clock%20Project/index1.html)
 
 ## 🛠️ Technologies Used
 
