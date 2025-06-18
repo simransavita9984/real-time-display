@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(135deg, #c3ecf7, #a1c4fd);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#clock-card {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  padding: 40px;
+}
+
+#time {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.navbar {
+  margin-bottom: 40px;
+}
+
+.display-5 {
+  font-weight: 600;
+}
+
+.btn-primary {
+  border-radius: 25px;
+  padding: 10px 30px;
+}
